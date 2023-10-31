@@ -1,3 +1,5 @@
 ## Repository # not_my_first_repository created
 
-Some random texte added
+Some random text added
+
+Random text edited.
