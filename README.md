@@ -8,4 +8,4 @@ Another text added locally.
 
 Some text added in a new branch.
 
-Random text to resolve conflict.
+Conflict resolved.
