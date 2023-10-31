@@ -8,4 +8,4 @@ Another text added locally.
 
 Some text added in a new branch.
 
-Conflict resolved.
+Adding some 'sueta' in version control locally
