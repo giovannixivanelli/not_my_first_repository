@@ -2,4 +2,4 @@
 
 Some random text added
 
-Random text edited.
+Random text edited in browser.
