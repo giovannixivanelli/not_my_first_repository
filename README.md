@@ -9,3 +9,5 @@ Another text added locally.
 Some text added in a new branch.
 
 Adding some 'sueta' in version control locally
+
+Conflict solved successfully.
